@@ -1,2 +1,0 @@
-# JavaScript-Template
-# Joke-Teller
